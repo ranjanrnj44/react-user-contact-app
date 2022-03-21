@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-user-contact-app/static/css/main.e6c13ad2.css",
+    "main.js": "/react-user-contact-app/static/js/main.9fe52008.js",
+    "static/js/787.5e8c3999.chunk.js": "/react-user-contact-app/static/js/787.5e8c3999.chunk.js",
+    "index.html": "/react-user-contact-app/index.html",
+    "main.e6c13ad2.css.map": "/react-user-contact-app/static/css/main.e6c13ad2.css.map",
+    "main.9fe52008.js.map": "/react-user-contact-app/static/js/main.9fe52008.js.map",
+    "787.5e8c3999.chunk.js.map": "/react-user-contact-app/static/js/787.5e8c3999.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9fe52008.js"
+  ]
+}
